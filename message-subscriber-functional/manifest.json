@@ -1,0 +1,26 @@
+{
+  "name": "message-subscriber-functional",
+  "label": "Message Subscriber (functional)",
+  "dependency": "jimu-arcgis",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.0.0",
+  "author": "Thomas Fuhrmann",
+  "description": "",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "messageActions": [
+    {
+      "name": "query",
+      "label": "Query features",
+      "uri": "actions/query-action",
+      "settingUri": "actions/query-action-setting"
+    }
+  ],
+  "properties": {
+    "hasConfig": true
+  },
+  "translatedLocales": [
+    "en"
+  ]
+}
