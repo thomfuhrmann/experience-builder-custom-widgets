@@ -1,0 +1,1 @@
+System.register([],(function(e){return{execute:function(){e({selectMapWidget:"Wählen Sie eine Karte:"})}}}));
